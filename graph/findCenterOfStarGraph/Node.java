@@ -1,5 +1,3 @@
-package findCenterOfGraph;
-
 public class Node {
     int val;
     int freq;
