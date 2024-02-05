@@ -1,4 +1,5 @@
-package findCenterOfGraph;
+package findCenterOfStarGraph;
+
 import java.util.HashMap;
 
 public class Main {
